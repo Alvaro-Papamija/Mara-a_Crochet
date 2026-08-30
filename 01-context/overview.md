@@ -1,7 +1,7 @@
 # Overview
 
-> Estado: 🔴 | Última actualización: 2026-06-16
-> Autor: Por definir | Equipo: Por definir
+> Estado: 🔴 | Última actualización: 2026-08-29
+> Autor: Por definir | Equipo: Maraña_Crochet
 
 ## Contexto institucional
 
